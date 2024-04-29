@@ -11,8 +11,10 @@
 
 ## Repos we maintain, contribute to, or are just big fans of:
 
-👩‍💻 Robocorp Python AI Actions and automations ([robocorp/robocorp](https://github.com/robocorp/robocorp))</br>
-🧑‍🍳 Actions Cookbook ([robocorp/actions-cookbook](https://github.com/robocorp/actions-cookbook))</br>
+⭐️ Sema4.ai AI Actions ([sema4ai/actions](https://github.com/sema4ai/actions))
+👩‍💻 Robocorp Python Automation Framework ([robocorp/robocorp](https://github.com/robocorp/robocorp))</br>
+🧑‍🍳 Agents & Actions Cookbook ([sema4ai/cookbook](https://github.com/sema4ai/cookbook))</br>
 👨‍💻 RCC - Repeatable, movable and isolated Python environments ([robocorp/rcc](https://github.com/robocorp/rcc))</br>
-🧑‍💻 LangChain - with support for Robocorp AI Actions ([langchain-ai/langchain](https://github.com/langchain-ai/langchain))</br>
+💼 OpenGPTs - Open-source frontend and backend for creating Agents ([langchain-ai/opengpts](https://github.com/langchain-ai/opengpts))</br>
+🧑‍💻 LangChain - with support for Sema4.ai AI Actions ([langchain-ai/langchain](https://github.com/langchain-ai/langchain))</br>
 🤖 RPA Framework - Enterprise automation libraries ([robocorp/rpaframework](https://github.com/robocorp/rpaframework))
