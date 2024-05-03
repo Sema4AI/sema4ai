@@ -1,4 +1,4 @@
-![Sema4Logo_signature](https://github.com/Sema4AI/sema4ai/assets/40179958/f9f28d89-0bac-4644-a6ea-b505068aa5b7)
+![Sema4Logo_signature](https://github.com/Sema4AI/sema4ai/assets/40179958/041697c6-ccb9-438a-8834-2dc71c5ed687)
 
 **Sema4.ai is on a mission to define the future of knowledge work by building intelligent agents that transform how knowledge workers collaborate with AI.** Everything we do is driven by three core beliefs:
 
