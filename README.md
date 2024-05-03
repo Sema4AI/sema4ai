@@ -11,7 +11,7 @@
 
 ## Repos we maintain, contribute to, or are just big fans of:
 
-⭐️ Sema4.ai AI Actions ([sema4ai/actions](https://github.com/sema4ai/actions))
+⭐️ Sema4.ai AI Actions ([sema4ai/actions](https://github.com/sema4ai/actions))</br>
 👩‍💻 Robocorp Python Automation Framework ([robocorp/robocorp](https://github.com/robocorp/robocorp))</br>
 🧑‍🍳 Agents & Actions Cookbook ([sema4ai/cookbook](https://github.com/sema4ai/cookbook))</br>
 👨‍💻 RCC - Repeatable, movable and isolated Python environments ([robocorp/rcc](https://github.com/robocorp/rcc))</br>
