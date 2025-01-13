@@ -14,13 +14,12 @@ Combine the creativity of people with the power of AI, so you can achieve better
 👉 Visit our [site](https://sema4.ai)</br>
 👉 Read our [launch blog](https://www.linkedin.com/pulse/sema4ai-raises-305-million-bring-open-source-powered-ai-mission-critical-i8wsc)</br>
 👉 Check out the [open positions](https://sema4.teamtailor.com/)
+👉 Start building with [documentation](https://sema4.ai/docs)
 
 ## Repos we maintain, contribute to, or are just big fans of:
 
 ⭐️ Sema4.ai AI Actions ([sema4ai/actions](https://github.com/sema4ai/actions))</br>
-🧑‍🍳 Agents & Actions Cookbook ([sema4ai/cookbook](https://github.com/sema4ai/cookbook))</br>
+🧑‍🍳 Agents & Actions Gallery ([sema4ai/gallery](https://github.com/Sema4AI/gallery))</br>
 👩‍💻 Robocorp Python Automation Framework ([robocorp/robocorp](https://github.com/robocorp/robocorp))</br>
 👨‍💻 RCC - Repeatable, movable and isolated Python environments ([robocorp/rcc](https://github.com/robocorp/rcc))</br>
-💼 OpenGPTs - Open-source frontend and backend for creating Agents ([langchain-ai/opengpts](https://github.com/langchain-ai/opengpts))</br>
-🧑‍💻 LangChain - with support for Sema4.ai AI Actions ([langchain-ai/langchain](https://github.com/langchain-ai/langchain))</br>
 🤖 RPA Framework - Enterprise automation libraries ([robocorp/rpaframework](https://github.com/robocorp/rpaframework))
